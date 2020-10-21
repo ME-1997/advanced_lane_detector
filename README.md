@@ -9,3 +9,10 @@ The following approach is used :
 3.	Use algorithm to find points for left and right lanes.
 4.	Fit points to polynomial to obtain parametric trajectory needed for path planning.
 5.  Obtain polygon enlcosed by road lanes which is the drivable surface.
+
+
+Input frame:
+![alt text](https://i.ibb.co/qW2jGt8/Untitled.png)
+
+
+Output frame
